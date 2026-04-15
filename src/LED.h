@@ -104,5 +104,4 @@ Led(uint8_t pin);
      */
     void update();
 };
-
 #endif
